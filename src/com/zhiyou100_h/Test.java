@@ -7,5 +7,19 @@ public class Test {
 		r.area();
 		r.perimeter();
 	}
-
+     // ----->>>> 测试添加
+	
+	// 显示
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
 }
